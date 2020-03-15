@@ -1,6 +1,6 @@
 let cat, dog, bird, bird2;
 
-describe("cat", () => {
+("cat", () => {
   beforeEach(() => {
     cat = new Cat("Sasha", "female")
   })
